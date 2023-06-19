@@ -1,0 +1,3 @@
+# Time-Series-Analysis-on-BTC-Price
+Using Time Series Analysis for prediction and forecasting of Bitcoin Prices
+This project involves Time Series Analysis for prediction and forecasting using the dataset "btc-market-price.csv". Various models, including ARIMA, SARIMA, and Machine Learning regressors, are utilized to analyze the data, visualize the results, and assess their performance using RMSE. The project also includes generating future predictions and comparing the outcomes of different models. The goal is to showcase an understanding of Time Series Analysis techniques and provide meaningful interpretations of the results.
